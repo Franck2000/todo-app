@@ -1,5 +1,4 @@
-import React from "react";
-
+ 
 type TaskProps = {
   task: any;
   onDelete: (id: number) => void;
